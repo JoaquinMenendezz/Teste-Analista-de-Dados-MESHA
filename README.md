@@ -1,3 +1,7 @@
+Os arquivos deste repositorio foram colocados no Google Drive, nesse link https://drive.google.com/drive/folders/1ITfS7uPC5GRgMp1l7m7bvES3w2nikSOK?usp=sharing
+
+O Relatório pode ser visualizado nesse link https://app.powerbi.com/links/QQsg6kuDVe?ctid=9df5120a-0ced-4ba3-9f92-b5817b3eed54&pbi_source=linkShare 
+
 # Teste Analista de Dados
 Critérios avaliadas:
 - Uso de Funções DAX
